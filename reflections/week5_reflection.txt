@@ -1,0 +1,13 @@
+Student Name: Bemnet Kebede
+
+What I practiced in the shell:
+I practiced using redirection to save command output into files. I used grep to search for specific text and find to locate files based on a pattern. I also practiced using pipes to send the output of one command into another command. I learned to use wildcards carefully by listing the matches before copying files. These exercises helped me become more comfortable using the shell to organize and process files.
+
+How GitHub changed my submission habits:
+GitHub made me more careful about keeping my work organized and making clear commits. I learned that commit messages should describe exactly what was changed. I also practiced pushing my work so that the repository always contains my latest completed tasks. Working with branches also showed me how changes can be reviewed before being merged into main.
+
+One mistake I made and how I fixed it:
+One mistake I made was not checking the files matched by a wildcard before using it. I fixed this by listing the matches first with ls and redirecting the results to an output file. This helped me confirm that the wildcard selected only the files I intended to copy.
+
+Why the repository name had to be exactly SE103-Week5:
+The repository name had to be exactly SE103-Week5 because the assignment checker looks for that specific repository. Using the required name makes sure the submitted work can be found and graded correctly.
