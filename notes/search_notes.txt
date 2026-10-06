@@ -1,0 +1,13 @@
+Student Name: Bemnet Kebede
+
+What grep helped me do:
+grep helped me search the journal for lines containing a specific word or pattern. I used it to find the line containing the word error and save the result to a file.
+
+What find helped me do:
+find helped me search through the shell_practice directory for files matching a specific name pattern. I used it to find all files ending in .txt.
+
+What the pipe helped me do:
+The pipe allowed me to send the output of one command directly into another command. I used ls with grep to filter the directory listing and keep only the .txt files.
+
+Difference between > and >>:
+The > operator writes command output to a file and overwrites existing content. The >> operator adds output to the end of a file without removing the content already there.
