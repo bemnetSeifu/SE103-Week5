@@ -1,0 +1,7 @@
+Student Name: Bemnet Kebede
+GitHub Username: bemnetSeifu
+Repository: SE103-Week5
+Repository URL: https://github.com/bemnetSeifu/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time:
+Next time, I would check my commands and expected output before moving to the next task. I would also review the final repository structure earlier so I can catch any missing files before the final submission.
